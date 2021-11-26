@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </table>
 
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=yeblu"/></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashollas&layout=compact&theme=yeblu"/></p>
 </div>
 
 
