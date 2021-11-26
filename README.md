@@ -17,11 +17,16 @@ Here are some ideas to get you started:
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=lucashollas&show_icons=true&theme=yeblu&locale=en" alt="jigar-sable" /></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucashollas&theme=yeblu" alt="jigar-sable" /></td>
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
   </tr>
 </table>
 
 <div align="center">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucashollas&show_icons=true&theme=yeblu&locale=en&layout=compact" alt="jigar-sable" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" alt="jigar-sable" /></p>
   </div>
 
 
