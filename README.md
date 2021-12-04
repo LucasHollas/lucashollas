@@ -24,5 +24,7 @@ Here are some ideas to get you started:
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashollas&layout=compact&theme=yeblu"/></p>
 </div>
 
+  ![Snake animation](https://github.com/lucashollas/lucashollas/blob/output/github-contribution-grid-snake.svg)
+
 
 
