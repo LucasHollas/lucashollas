@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hello there :vulcan_salute: I'm Lucas Hollas de Cairos. Welcome to my profile!</h1>
+<h1>Hey :vulcan_salute: I'm Lucas Hollas de Cairos. Welcome to my profile!</h1>
  
 <table>
   <tr>
