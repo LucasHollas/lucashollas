@@ -32,7 +32,7 @@
  ##
 
 <h6 align="right">Lucas Hollas, have a dream :milky_way:</h6>
-<h6 align="right">Being a software engineer and a mobile developer :trophy:</h6>
+<h6 align="right">Being a software engineer and a front-end developer :trophy:</h6>
 
   ![Snake animation](https://github.com/lucashollas/lucashollas/blob/output/github-contribution-grid-snake.svg)
 
