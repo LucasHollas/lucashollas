@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hello there :vulcan_salute: I'm Lucas Hollas de Cairos, front-end developer. Welcome to my profile!</h1>
+<h1>Hello there :vulcan_salute: I'm Lucas Hollas de Cairos, software developer. Welcome to my profile!</h1>
  
 <table>
   <tr>
@@ -33,7 +33,7 @@
  ##
 
 <h6 align="right">Lucas Hollas, have a dream :milky_way:</h6>
-<h6 align="right">Being a software engineer and a front-end developer :trophy:</h6>
+<h6 align="right">Being a software engineer and a full stack developer :trophy:</h6>
 
   ![Snake animation](https://github.com/lucashollas/lucashollas/blob/output/github-contribution-grid-snake.svg)
 
