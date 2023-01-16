@@ -26,7 +26,4 @@
  
  <br>
 
-  ![Snake animation](https://github.com/lucashollas/lucashollas/blob/output/github-contribution-grid-snake.svg)
-
-
 
