@@ -3,7 +3,7 @@
  
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=yeblu"/></td>
+    <td><img src="https://github-readme-stats-five-sigma.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=yeblu"/></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucashollas&theme=yeblu"/></td>
   </tr>
 </table>
