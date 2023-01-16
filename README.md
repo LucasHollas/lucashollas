@@ -3,8 +3,8 @@
  
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucashollas&show_icons=true&theme=outrun&locale=en"/></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucashollas&theme=outrun"/></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucashollas&show_icons=true&theme=transparent&locale=en"/></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucashollas&theme=transparent"/></td>
   </tr>
 </table>
   
