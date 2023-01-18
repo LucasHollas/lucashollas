@@ -8,8 +8,6 @@
 </table>
   
 </div>
-
-</div> 
  <div align="center" style="display: inline_block;"> 
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucashollas&theme=tokyo-night"/>
  </div>  
@@ -20,3 +18,4 @@
   <a align="center" href = "mailto:devlucashollas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/lucashollasdecairos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+</div> 
