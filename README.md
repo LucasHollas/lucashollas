@@ -9,7 +9,7 @@
   
 </div>
  <div align="center" style="display: inline_block;"> 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucashollas&theme=tokyo-night"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucashollas"/>
  </div>  
  <br>
  <br>
