@@ -2,15 +2,19 @@
 <h1>Hello there :vulcan_salute: I'm Lucas Hollas de Cairos, software developer and specialist in software engineering. Welcome to my profile!</h1>
  
 <table>
-  <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucashollas&theme=tokyonight"/></td>
+   <tr>
+    <td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucashollas&theme=tokyonight"/></td>
+  </tr>
+</table>
+
+<table>
+   <tr>
+    <td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucashollas&theme=tokyonight"/></td>
+    <td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucashollas&theme=tokyonight"/></td>
   </tr>
 </table>
   
 </div>
-<!-- <div align="center" style="display: inline_block;"> 
- <img src=""/>
- </div>  -->
  <br>
  <br>
  <div align="center" style="display: inline_block;">
